@@ -61,7 +61,7 @@ Python 3 + Qt5
     make qt5py3
     python3 labelImg.py
     python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
-    python3 labelImg.py /Users/liupeng/Desktop/anaconda/labelImg/demo /Users/liupeng/Desktop/anaconda/labelImg/data/predefined_classes.txt
+    
 
 macOS
 ^^^^
@@ -84,6 +84,7 @@ Python 3 + Qt5 (Works on macOS High Sierra)
     make qt5py3
     python labelImg.py
     python  labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
+    python3 labelImg.py /Users/liupeng/Desktop/anaconda/labelImg/demo /Users/liupeng/Desktop/anaconda/labelImg/data/predefined_classes.txt
 
 
 Windows
